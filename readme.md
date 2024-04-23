@@ -10,20 +10,20 @@ This Python program reads a text file, removes stop words from the text, and cou
 
 ### 1. Clone the Repository
 
-\`\`\`bash
+```
 git clone https://github.com/your-username/remove-stop-words.git
 cd cloud-assignment
-\`\`\`
+```
 
 ## Usage
 
 ### Running the Program
 
-Replace \`paragraphs.txt\` with the path to your text file containing the paragraphs you want to process.
+Replace `paragraphs.txt` with the path to your text file containing the paragraphs you want to process.
 
-\`\`\`bash
+```
 python main.py
-\`\`\`
+```
 
 The program will read the \`paragraphs.txt\` file, remove stop words, and display the frequency of each word.
 
@@ -31,11 +31,11 @@ The program will read the \`paragraphs.txt\` file, remove stop words, and displa
 
 After running the program, you should see output similar to the following:
 
-\`\`\`
+```
 word1 ====>> frequency1
 word2 ====>> frequency2
 ...
-\`\`\`
+```
 
 ## Additional Notes
 
